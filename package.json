@@ -1,0 +1,16 @@
+{
+  "name": "ts-spec-runner",
+  "version": "1.0.0",
+  "description": "Jasmine TypeScript Specs Runner",
+  "main": "SpecRunner.html",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "author": "Romain Deneau",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.52",
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4"
+  }
+}
